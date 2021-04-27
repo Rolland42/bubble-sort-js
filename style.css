@@ -1,0 +1,10 @@
+#chart div
+{
+  width: 8px;
+  background-color: purple ;
+  margin:2px;
+}
+#chart
+{
+    display:flex;
+}
